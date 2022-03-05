@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Prueba de servicios en bloque Order","Creacion, consulta y eliminacion de orden","SUCCESS","2022-03-04T20:29:19.404-05:00[America/Bogota]","0.0","9.25"
+"Prueba de servicios en bloque Pet","Creacion, consulta y eliminacion de mascota","SUCCESS","2022-03-04T20:27:44.213-05:00[America/Bogota]","0.0","7.23"
+"Prueba de servicios en bloque User","Creacion, consulta y eliminacion de usuario","SUCCESS","2022-03-04T20:25:28.769-05:00[America/Bogota]","0.0","9.01"

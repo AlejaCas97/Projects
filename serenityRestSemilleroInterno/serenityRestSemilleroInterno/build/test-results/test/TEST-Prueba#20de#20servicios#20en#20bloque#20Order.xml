@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Prueba de servicios en bloque Order" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-05T01:29:19" hostname="SQABOG-SQA2022" time="9.031">
+  <properties/>
+  <testcase name="Creacion, consulta y eliminacion de orden" classname="Prueba de servicios en bloque Order" time="9.031"/>
+  <system-out><![CDATA[{"id":9,"petId":10,"quantity":2,"shipDate":"2022-03-04T15:35:53.151+0000","status":"placed","complete":true}
+{"code":200,"type":"unknown","message":"9"}
+{"id":9,"petId":3,"quantity":2,"shipDate":"2022-03-05T00:01:13.994+0000","status":"placed","complete":false}
+{"code":400,"type":"unknown","message":"bad input"}
+{"id":7,"petId":3,"quantity":2,"shipDate":"2022-03-05T00:00:48.230+0000","status":"placed","complete":false}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
